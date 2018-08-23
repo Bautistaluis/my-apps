@@ -79,7 +79,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to CCEO
+                </div>
+
+                <div class="panel-body">
+                    <a href="http://cceo.com.mx">Cceo.com</a>
                 </div>
 
                 <div class="links">

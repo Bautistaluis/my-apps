@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Joob extends Model
+class Job extends Model
 {
     protected title;
 
